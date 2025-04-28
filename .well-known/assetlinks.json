@@ -1,0 +1,15 @@
+[
+	{
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.thalesgroup.dis.ibs.did.ica.icasampleapp",
+            "sha256_cert_fingerprints": [
+                "41:C1:B0:3D:04:DD:F0:7A:C8:D4:BC:37:D0:1A:5C:D6:49:68:08:47:B2:9E:CB:97:92:0D:3E:4F:00:78:C1:B8",
+                "F2:CD:00:B7:1A:D8:B9:A0:FF:7A:4F:13:B8:63:0F:75:77:B2:0E:7E:7B:97:1B:4D:8B:0D:66:3E:77:6D:C6:DD"
+            ]
+        }
+    }
+]
